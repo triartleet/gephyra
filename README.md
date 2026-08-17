@@ -1,5 +1,7 @@
 # Gephyra
 
+> **Moved:** development continues in [triartleet/extensions](https://github.com/triartleet/extensions) as **Claude Provider Switcher** (`alkisyuv.claude-provider-switcher`); this repository and the marketplace listing are deprecated with a pointer to the new one.
+
 <div align="center">
   <img src="https://raw.githubusercontent.com/triartleet/gephyra/main/media/gephyra-logo.png" width="520" alt="Gephyra — a bridge from your editor to whichever provider you pick">
   <p>
